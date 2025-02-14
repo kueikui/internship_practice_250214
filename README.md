@@ -1,1 +1,8 @@
 # internship_practice_250214
+
+今天早上發現了為什麼昨天類別庫都不能用的問題，原來是新增錯類別庫，我要用framework的類別庫才對
+後來做增刪查改道大概下午三點，給學姊demo後
+增修改查用dapper寫到class是沒有問題
+但沒用到LINQ跟lambda
+下禮拜要試著寫LINQ，但lambda不強求
+加油
